@@ -1,4 +1,4 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-$config['appId']  = '603862849741207'; 
-$config['secret'] = '976af7eee655f67acf8d86348678c41c';
-$config['fanPageId'] = '187516361438511';
+$config['appId']  = 'YOUR_FB_ID'; 
+$config['secret'] = 'YOUR_FB_APP_SECRET';
+$config['fanPageId'] = 'YOUR_FB_FANPAGE_ID';

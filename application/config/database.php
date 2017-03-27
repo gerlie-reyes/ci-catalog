@@ -49,8 +49,8 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'gfmreyes_sneaker';
-$db['default']['password'] = 'v#$Nv3qsSZ;J';
+$db['default']['username'] = '';
+$db['default']['password'] = '';
 $db['default']['database'] = 'gfmreyes_sneakertradeph';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
